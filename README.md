@@ -1,4 +1,4 @@
-# lazy-load-imagens
+# Lazy Load Imagens
 
 Carregamento lento de imagens, o carregamento a imagem é feito com o usuário visualiza a imagem no navegador ou celular.
 
