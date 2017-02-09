@@ -1,0 +1,21 @@
+article {
+	padding: 50px;
+}
+
+.lazy-load-img img {
+	float: left;
+	height: 300px;
+	width: 500px;
+	padding-right: 40px;
+	opacity: 0;
+}
+
+p {
+	font-size: 2.5em;
+}
+
+.lazy-load-img img.loaded {
+	opacity: 1;
+	transition: all 1s;
+}
+
